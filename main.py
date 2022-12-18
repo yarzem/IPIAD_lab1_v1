@@ -50,9 +50,11 @@ doc.parse_syntax(syntax_parser)
 for token in doc.tokens:
     result_file.write(str(token))
     result_file.write('\n')
-result_file.write(str(doc.sents[0].syntax.print()))
+
+
+
 for i in doc.sents:
-    result_file.write(str(i.syntax.print()))
+    print(str(i.syntax.print()))
 
 
 ##### slovo - sochetania

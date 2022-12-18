@@ -191,4 +191,3 @@ DocToken(start=515, stop=519, text='само', id='4_13', head_id='4_14', rel='a
 DocToken(start=520, stop=525, text='число', id='4_14', head_id='4_15', rel='nsubj')
 DocToken(start=526, stop=529, text='нет', id='4_15', head_id='4_9', rel='conj')
 DocToken(start=529, stop=530, text='.', id='4_16', head_id='4_1', rel='punct')
-NoneNoneNoneNoneNone
